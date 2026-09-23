@@ -1,1 +1,10 @@
-
+{
+  "licenses": [
+    {
+      "key": "ZEAK-1234-ABCD",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceId": ""
+    }
+  ]
+}

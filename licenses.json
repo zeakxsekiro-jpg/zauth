@@ -32,6 +32,14 @@
         "22de37bc4acec0e3",
         "d7ebbdeaaad39d59"
       ]
+    },
+    {
+      "key": "YASH-33PC-GFSX",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "393f7ca396fc3608"
+      ]
     }
   ]
 }

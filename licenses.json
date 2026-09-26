@@ -22,6 +22,15 @@
         "80b9985b2644f985",
         "3a6aaf41a90befa3"
       ]
+    },
+    {
+      "key": "DIPE-01PC-GFSX",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "1b4b14be919ad0a5",
+        "274d339f0a1e3239"
+      ]
     }
   ]
 }

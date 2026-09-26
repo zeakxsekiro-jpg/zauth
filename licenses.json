@@ -1,70 +1,94 @@
 {
   "licenses": [
     {
-      "key": "ZEAK-1234-ABCD",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "86c5589cfa8d7629"
+      "deviceId": "b4e8d12d2fc9fcfa"
     },
     {
-      "key": "ZEAK-5678-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "80b9985b2644f985"
+      "deviceId": "b904bac4ef5722d5"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "892fe20264b8e657"
+      "deviceId": "da694ad6da3f108d"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "5e092cc3759a4643"
+      "deviceId": "6fed885924112a58"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "4655a8dd978b3f48"
+      "deviceId": "9e0fa9e85c950222"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "b63d14c4aa77251a"
+      "deviceId": "93cefed373dbd7b1"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "1f2c28896549bd71"
+      "deviceId": "2cbff21c44dda07c"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "c84c886a3775e20f"
+      "deviceId": "ddcd934d7b2ad221"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "6fd55a61a642ed2c"
+      "deviceId": "c4363c08cf5d5da9"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "3b2626ac50873bdc"
+      "deviceId": "4f96a4ba84740294"
     },
     {
-      "key": "ORIN-01PC-EFGH",
+      "key": "ORIN-02PC-EFGH",
       "expires": "2026-10-26",
       "enabled": true,
-      "deviceId": "1fce05d55bf5e13f"
+      "deviceId": "7c556361be255dca"
+    },
+    {
+      "key": "ORIN-02PC-EFGH",
+      "expires": "2026-10-26",
+      "enabled": true,
+      "deviceId": "23a2f018ffd0b8c0"
+    },
+    {
+      "key": "ORIN-02PC-EFGH",
+      "expires": "2026-10-26",
+      "enabled": true,
+      "deviceId": "a21d13b9325d1c9b"
+    },
+    {
+      "key": "ORIN-02PC-EFGH",
+      "expires": "2026-10-26",
+      "enabled": true,
+      "deviceId": "dd8f6780b9f54edd"
+    },
+    {
+      "key": "ORIN-02PC-EFGH",
+      "expires": "2026-10-26",
+      "enabled": true,
+      "deviceId": "3a6aaf41a90befa3"
     }
   ]
 }

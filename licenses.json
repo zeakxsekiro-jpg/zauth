@@ -44,6 +44,22 @@
         "de6d42146792e16e",
         "390d2aa7f92746bb"
       ]
+    },
+    {
+      "key": "REHA-36QC-GDCX",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "dda349e6b4c0f730",
+        "3a93b98b74fc1791",
+        "7ac721dadecd832b",
+        "b162fe2ce2cbef70",
+        "1cbb282663806de8",
+        "33942be6a6031dc5",
+        "9ec4553123626d4f",
+        "d46cf3c0c399d389",
+        "3cffda05865dd140"
+      ]
     }
   ]
 }

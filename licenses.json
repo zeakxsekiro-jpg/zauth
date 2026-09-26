@@ -48,6 +48,14 @@
         "d46cf3c0c399d389",
         "3cffda05865dd140"
       ]
+    },
+    {
+      "key": "ZEUS-01PC-GDES",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "59c45fdbaace95b0"
+      ]
     }
   ]
 }

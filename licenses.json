@@ -2,9 +2,15 @@
   "licenses": [
     {
       "key": "ZEAK-1234-ABCD",
-      "expires": "2026-12-31",
+      "expires": "2025-12-31",
       "enabled": true,
       "deviceId": "86c5589cfa8d7629"
+    },
+    {
+      "key": "ZEAK-5678-EFGH",
+      "expires": "2027-01-31",
+      "enabled": true,
+      "deviceId": "80b9985b2644f985"
     }
   ]
 }

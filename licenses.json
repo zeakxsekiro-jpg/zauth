@@ -34,18 +34,6 @@
       ]
     },
     {
-      "key": "YASH-33PC-GFSX",
-      "expires": "2026-12-31",
-      "enabled": true,
-      "deviceIds": [
-        "393f7ca396fc3608",
-        "e1061595c52cb38d",
-        "d921e659ba136e46",
-        "de6d42146792e16e",
-        "390d2aa7f92746bb"
-      ]
-    },
-    {
       "key": "REHA-36QC-GDCX",
       "expires": "2026-12-31",
       "enabled": true,

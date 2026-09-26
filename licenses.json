@@ -1,94 +1,26 @@
 {
   "licenses": [
     {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
+      "key": "ZEAK-1234-ABCD",
+      "expires": "2026-12-31",
       "enabled": true,
-      "deviceId": "b4e8d12d2fc9fcfa"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "b904bac4ef5722d5"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "da694ad6da3f108d"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "6fed885924112a58"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "9e0fa9e85c950222"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "93cefed373dbd7b1"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "2cbff21c44dda07c"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "ddcd934d7b2ad221"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "c4363c08cf5d5da9"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "4f96a4ba84740294"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "7c556361be255dca"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "23a2f018ffd0b8c0"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "a21d13b9325d1c9b"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "dd8f6780b9f54edd"
-    },
-    {
-      "key": "ORIN-02PC-EFGH",
-      "expires": "2026-10-26",
-      "enabled": true,
-      "deviceId": "3a6aaf41a90befa3"
+      "deviceIds": [
+        "b4e8d12d2fc9fcfa",
+        "b904bac4ef5722d5",
+        "da694ad6da3f108d",
+        "6fed885924112a58",
+        "9e0fa9e85c950222",
+        "93cefed373dbd7b1",
+        "2cbff21c44dda07c",
+        "ddcd934d7b2ad221",
+        "c4363c08cf5d5da9",
+        "4f96a4ba84740294",
+        "7c556361be255dca",
+        "23a2f018ffd0b8c0",
+        "a21d13b9325d1c9b",
+        "dd8f6780b9f54edd",
+        "3a6aaf41a90befa3"
+      ]
     }
   ]
 }

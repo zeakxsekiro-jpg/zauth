@@ -83,7 +83,11 @@
       "expires": "2026-12-31",
       "enabled": true,
       "deviceIds": [
-        "80b9985b2644f985"
+        "80b9985b2644f985",
+        "c2db69b1e137a0be",
+        "b36da4d750f976a1",
+        "a12dafaf4ca7428d",
+        "a434086695086fc7"
       ]
     },
     {
@@ -96,7 +100,7 @@
         "b97a370f8c4ddb9f",
         "7ef9b956de16750c",
         "392fd111b1151c15",
-        "d3d7dfa05f36ca7a"
+        "d3d7dfa05f36ca7"
       ]
     }
   ]

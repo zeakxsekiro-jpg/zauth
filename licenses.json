@@ -85,6 +85,19 @@
       "deviceIds": [
         "80b9985b2644f985"
       ]
+    },
+    {
+      "key": "JERRY-06PC-GDES",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "0b766027c805bcf0",
+        "3e34e787a33f271d",
+        "b97a370f8c4ddb9f",
+        "7ef9b956de16750c",
+        "392fd111b1151c15",
+        "d3d7dfa05f36ca7a"
+      ]
     }
   ]
 }

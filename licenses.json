@@ -77,6 +77,14 @@
         "59c45fdbaace95b0",
         "f1e8505302a7157f"
       ]
+    },
+    {
+      "key": "ZEAK-80PC-B998",
+      "expires": "2026-12-31",
+      "enabled": true,
+      "deviceIds": [
+        "80b9985b2644f985"
+      ]
     }
   ]
 }
